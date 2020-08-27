@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 
 # Business Problem
-Recommendation system is using variety of recognized areas like Netflix, YouTube and Spotify, Amazon, eBay, Facebook, Twitter many more. Streaming service provider are becoming popular increasingly as user can access thousands of films and television programs by paying minimum subscription fee. Recommendation system is playing great role to user to select movies which are close to their preference.  In this project, we have designed a movie recommender system using cluster-computing framework Spark.
+Recommendation system is using variety of recognized areas like Netflix, YouTube and Spotify, Amazon, eBay, Facebook, Twitter many more. Streaming service provider are becoming popular increasingly as user can access thousands of films and television programs by paying minimum subscription fee. Recommendation system is playing great role to user to select movies which are close to their preference.  In this project, we have designed a movie recommender system using cluster-computing framework Spark and can be applied to any movie streming service provider like Netflix. This project is inspired by Netflix Prize in [Kaggle](https://www.kaggle.com/netflix-inc/netflix-prize-data).
 
 # Problem Statement
 * as size of the data are large then how to handle? 
@@ -31,3 +31,11 @@ You need to have installed following softwares, libraries in your machine before
 We have studied two algorithms in Collaborative filtering:
 * ALS : A model-based collaborative filtering, which use latent factors to predict missing entries. Alternating Least Squares (ALS) algorithm has been to learn latent factors.
 * ALS + bias : Same algorithm but add bias to calculate latent factors.
+
+# Sources 
+*  Big-Data Analysis Course at Concordia University
+*  https://grouplens.org/datasets/movielens/latest/
+*  https://spark.apache.org/docs/latest/api/python/pyspark.sql.html
+*  https://spark.apache.org/docs/2.2.0/ml-guide.html
+*  https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2
+
