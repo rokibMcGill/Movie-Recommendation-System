@@ -8,7 +8,7 @@ Recommendation system is using variety of recognized areas like Netflix, YouTube
 * how to improve performance of the algorithm?
 
 # Dataset Description
-Data has been collected from the [MovieLens dataset] (#https://grouplens.org/datasets/movielens/latest/). 
+Data has been collected from the [MovieLens dataset] (https://grouplens.org/datasets/movielens/latest/). 
 Two datasets are used, one contains movie descriptions and others movie rating. 
 * There are 9,000 unique movie IDs.
 * There are 6000 unique user IDs.
